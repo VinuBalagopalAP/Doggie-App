@@ -23,3 +23,7 @@ A simple app which randomly shows images of dogs
   ![Screenshot from 2022-02-04 13-51-27](https://user-images.githubusercontent.com/48175345/152495583-f4b4dffc-c586-425b-9f8e-4ae1b5949145.png)
 
   ![Screenshot from 2022-02-04 13-52-04](https://user-images.githubusercontent.com/48175345/152495656-b6397289-0783-4572-86ec-24b4084478f7.png)
+
+## Download App
+ 
+ [Link to download the app](https://github.com/VinuBalagopalAP/doggie_app/releases/download/v-1.0/Doggie.App.apk)
